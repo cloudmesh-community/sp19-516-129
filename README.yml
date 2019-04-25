@@ -7,10 +7,10 @@ owner:
   semester: sp19
 project:
   - title: Workflow
-    url: https://github.com/cloudmesh-community/sp19-516-129/blob/master/project-code/cloudmesh-flow/README.md
-    code: https://github.com/cloudmesh-community/sp19-516-129/blob/master/project-code/
+    url: https://github.com/cloudmesh/cloudmesh-flow/README.md
+    code: https://github.com/cloudmesh/cloudmesh-flow/
     pytest:
-      - https://github.com/cloudmesh-community/sp19-516-129/tree/master/project-code/cloudmesh-flow/tests
+      - https://github.com/cloudmesh/cloudmesh-flow/tests
 section:
  - title: ISO 27000
  - url: https://github.com/cloudmesh-community/sp19-516-129/blob/master/iso27k.md

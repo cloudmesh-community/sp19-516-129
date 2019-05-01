@@ -9,6 +9,7 @@ project:
   - title: Workflow
     url: https://github.com/cloudmesh/cloudmesh-flow/README.md
     code: https://github.com/cloudmesh/cloudmesh-flow/
+    status: 85%
     pytest:
       - https://github.com/cloudmesh/cloudmesh-flow/tests
 section:

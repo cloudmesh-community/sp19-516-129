@@ -46,9 +46,26 @@
 
 # Week 03/18/19 - 03/22/19
  * read chapters in book
- * parsing code is working
+ * parsing code is working for base cases
 
-# Week 03/25/19 - 03/29/19
- * add nodes to mongodb
- * query for next available workflow node
- * rework nodes database code with professor (office hours)
+# Week 04/01/19 - 04/05/19
+ * parsing works for extended cases
+ * database updates working
+ * new "active flow" methodology allows running flow multiple times
+ 
+# Week 04/08/19 - 04/12/19
+ * add initial pytests
+ * redo with cloudmesh-installer format
+ * fix PyENV
+ 
+# Week 04/15/19 - 04/19/19
+ * add pytests for additional methods
+ * rework flow runner to use inspect
+ * finalise ISO Section text
+ 
+# Week 04/22/19 - 04/26/19
+ * add extended methods to WorkFlowDB code for listing/editing
+ * office hours meeting w/professor & hamid
+ * move flow project out of personal repo (with professor)
+ * final in-class meeting
+ 

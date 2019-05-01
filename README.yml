@@ -9,9 +9,10 @@ project:
   - title: Workflow
     url: https://github.com/cloudmesh/cloudmesh-flow/README.md
     code: https://github.com/cloudmesh/cloudmesh-flow/
-    status: 85%
+    status: 100%
     pytest:
       - https://github.com/cloudmesh/cloudmesh-flow/tests
+      - https://github.com/cloudmesh/cloudmesh-flow/benchmark
 section:
  - title: ISO 27000
  - url: https://github.com/cloudmesh-community/sp19-516-129/blob/master/iso27k.md
